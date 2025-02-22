@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Blockchain and mastering DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Harsha022005](https://github.com/Harsha022005)
+- 👨‍💻 All of my projects are available at [https://github.com/Harsha022005?tab=repositories](https://github.com/Harsha022005?tab=repositories)
 
 - 💬 Ask me about **Full stack tech**
 
