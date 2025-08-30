@@ -19,7 +19,7 @@
 - 👨‍💻 Check out my projects at [github.com/Harsha022005](https://github.com/Harsha022005?tab=repositories)
 - 💬 Ask me about **React, Node.js, or anything full-stack**
 - 📫 Reach me at **harshajami2005@gmail.com**
-- 🌐 Portfolio: [harsha022005.github.io/portfolio/](https://harsha022005.github.io/portfolio/)
+- 🌐 Portfolio: [harsha022005.github.io/portfolio/](https://harsha022005.github.io/portfolio_updated/)
 
 ---
 
